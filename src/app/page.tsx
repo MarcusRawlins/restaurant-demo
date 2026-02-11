@@ -114,7 +114,7 @@ export default function Home() {
               </div>
               <div className="mt-10 flex items-center gap-6">
                 <img 
-                  src="https://images.unsplash.com/photo-1583394293214-28ez46dc9c?w=80&h=80&fit=crop&q=80" 
+                  src="https://images.unsplash.com/photo-1583394293214-28ded4bdda55?w=80&h=80&fit=crop&q=80" 
                   alt="Chef Marcus Williams"
                   className="w-16 h-16 rounded-full object-cover border-2 border-[#c9a227]"
                 />
