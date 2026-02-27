@@ -1,3 +1,10 @@
+# REESE-AI KNOWLEDGE BASE: R3-Studios - Projects - Restaurant-Demo
+# DATE CREATED: 2026-02-11 | LAST UPDATED: 2026-02-11
+# PURPOSE: R3-Studios - Projects - Restaurant-Demo content for strategic guidance
+# KEY TOPICS: marketing, client psychology, brand consistency
+# USAGE RULES: Always reference gold examples when discussing R3-Studios - Projects - Restaurant-Demo
+# EXAMPLES: gold/r3-studios/projects/restaurant-demo/README.md
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started

@@ -1,9 +1,16 @@
+# REESE-AI KNOWLEDGE BASE: R3-Studios - Projects - Restaurant-Demo - Out
+# DATE CREATED: 2026-02-11 | LAST UPDATED: 2026-02-11
+# PURPOSE: R3-Studios - Projects - Restaurant-Demo - Out content for strategic guidance
+# KEY TOPICS: marketing, client psychology, brand consistency
+# USAGE RULES: Always reference gold examples when discussing R3-Studios - Projects - Restaurant-Demo - Out
+# EXAMPLES: gold/r3-studios/projects/restaurant-demo/out/__next.__PAGE__.txt
+
 1:"$Sreact.fragment"
 2:I[5479,["/restaurant-demo/_next/static/chunks/7fb843ebd9cb621f.js"],"ClientPageRoot"]
-3:I[97735,["/restaurant-demo/_next/static/chunks/ac1d45fbc691bd49.js"],"default"]
+3:I[97735,["/restaurant-demo/_next/static/chunks/f9f1a751038af2f6.js"],"default"]
 6:I[45918,["/restaurant-demo/_next/static/chunks/7fb843ebd9cb621f.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"WReP7gHp-FPcwWFMQSxOy","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/restaurant-demo/_next/static/chunks/ac1d45fbc691bd49.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"t8CDFESEzHIgrI7inARzt","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/restaurant-demo/_next/static/chunks/f9f1a751038af2f6.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
